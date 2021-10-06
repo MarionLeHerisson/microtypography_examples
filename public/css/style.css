@@ -1,0 +1,27 @@
+html {
+    font-family: sans-serif;
+}
+pre {
+    overflow: scroll;
+}
+.content {
+    display: flex;
+}
+
+.column {
+    display: block;
+    width: 20%;
+    border: darkgrey solid 1px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.right {
+    float: right;
+    margin-left: 20%;
+}
+.left {
+    float: left;
+    margin-left: 10%;
+}

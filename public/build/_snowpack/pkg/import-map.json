@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "typography-fixer": "./typography-fixer.js",
+    "typography-fixer/lib/ignores/markdown": "./typography-fixer/lib/ignores/markdown.js",
+    "typography-fixer/lib/rules/en-UK": "./typography-fixer/lib/rules/en-UK.js",
+    "typography-fixer/lib/rules/fr-FR": "./typography-fixer/lib/rules/fr-FR.js"
+  }
+}

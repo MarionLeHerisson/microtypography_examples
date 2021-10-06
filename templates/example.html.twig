@@ -1,0 +1,23 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <div class="content">
+        <div class="left column">
+            <p>Avant :</p>
+            <pre>{{ text }}</pre>
+        </div>
+        <div class="right column">
+            <p>Après :</p>
+            <pre>{{ transformed }}</pre>
+        </div>
+    </div>
+    
+    <div class="content">
+        <div class="left column">
+            {{ text|raw }}
+        </div>
+        <div class="right column">
+            {{ transformed|raw }}
+        </div>
+    </div>
+{% endblock %}

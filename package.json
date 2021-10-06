@@ -1,0 +1,16 @@
+{
+  "name": "microtypography_examples",
+  "version": "1.0.0",
+  "main": "public/js/index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@seamusleahy/react-typography-helper": "^1.0.1",
+    "typography-fixer": "^0.1.0"
+  },
+  "devDependencies": {
+    "snowpack": "^3.8.6"
+  }
+}

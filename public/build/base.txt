@@ -1,0 +1,20 @@
+<h1>Personnalisation</h1>
+<h2>Espaces</h2>
+Espaces insécables avant : ou dans les « guillemets » et espaces fines !<br>
+<h2>Points de suspension...</h2>
+"Cet exemple - bien que court - sera une chouette illustration..."<br>
+<h2>Appostrophe & guillemets</h2>
+L'appostrophe ressemble à ça. Et pas à 2'54".<br>
+'It's a quote.'<br>
+C'est une "citation" comme on les aime. => C'est une « citation » comme on les aime.<br>
+"That's what she said" est sa réplique préférée. => “That's what she said” est sa réplique préférée.<br>
+"Was ist los ?" => „Was ist los ?“<br>
+<h2>Tirets</h2>
+Anne-Laure est un prénom composé.<br>
+Deux tirets --<br>
+Trois tirets ---<br>
+4-2=2<br>
+Intervalle : 12-14h<br>
+<h2>Divers</h2>
+3x4=12, 3*4=12, 3 x 4 = 12, 3 * 4 = 12 (j'essaye des trucs)<br>
+Trademarks : (c) (r) (TM)<br>

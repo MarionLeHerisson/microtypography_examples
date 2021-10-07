@@ -21,7 +21,7 @@ Je vous invite à le modifier selon vos besoins.
 
 Rendez vous ensuite sur les urls dédiées aux différents fixers pour voir le résultat.Une page de ce type va s'afficher : 
 
-![Capture d'écran](/img/capture.jpg "Capture d'écran")
+![Capture d'écran](/img/capture.png "Capture d'écran")
 
 (Les colonnes sont volontairement étroites afin de tester l'hyphénisation sur les titres.)
 

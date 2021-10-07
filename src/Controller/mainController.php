@@ -100,27 +100,4 @@ class mainController extends AbstractController
             'transformed' => $transformed,
         ]);
     }
-    
-    /**
-     * @Route("/typography-fixer")
-     */
-    public function typographyFixer(): Response
-    {
-        return $this->render('typography-fixer.html.twig', [
-            'text' => $this->text,
-        ]);
-    }
-    
-    /**
-     * @Route("/twig-typography")
-     */
-    public function twigTypography(): Response
-    {
-        $twig = new Environment($loader);
-        $twig->addExtension(new TypographyExtension(__DIR__ . '/typography.yml'));
-
-        return $this->render('example-twig.html.twig', [
-            'text' => $this->text,
-        ]);
-    }
 }

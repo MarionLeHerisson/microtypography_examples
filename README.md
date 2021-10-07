@@ -5,6 +5,7 @@ qui a pour ambition de comparer quelques outils qui pourraient vous aider à am�
 
 Il s'agit d'un petit site développé avec Symfony, à faire tourner en local afin de tester ces outils sur différentes pages web.
 
+Vous trouverez également mes slides aux formats [OpenDocument](https://github.com/MarionLeHerisson/microtypography_examples/blob/main/img/Microtypographie%20-%20Paris%20Web%202021.odp), [PowerPoint](https://github.com/MarionLeHerisson/microtypography_examples/blob/main/img/Microtypographie%20-%20Paris%20Web%202021.pptx) et [PDF](https://github.com/MarionLeHerisson/microtypography_examples/blob/main/img/Microtypographie%20-%20Paris%20Web%202021.pdf) dans le dossier `img`. 
 ## Installation 
 
 ### prérequis 

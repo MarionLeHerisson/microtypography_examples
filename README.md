@@ -9,13 +9,13 @@ Il s'agit d'un petit site développé avec Symfony, à faire tourner en local af
 
 ### prérequis 
 
-Avoir Composer et Symfony (pour son serveur local, mais un autre serveur local est possible) installés.
+Avoir [Composer](https://getcomposer.org/) et [Symfony CLI](https://symfony.com/download) (pour utiliser le serveur web intégré, mais un autre serveur web comme NGINX ou Apache peut être utilisé) installés.
 
 ### étapes
 
 - Cloner ce repo
-- Installer les packages avec Composer
-- Lancer le serveur symfony `symfony server:start` (ou tout autre serveur local)
+- Installer les packages avec Composer : `composer install`
+- Démarrer le serveur `symfony server:start` (ou via tout autre serveur web)
 - Se rendre sur l'une des URLs suivantes : 
 
 
